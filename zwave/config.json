@@ -1,10 +1,10 @@
 {
   "name": "OpenZWave",
-  "version": "0.5.4",
+  "version": "0.5.4.1",
   "slug": "zwave",
   "description": "Control a ZWave network with Home Assistant",
   "arch": ["amd64", "i386", "armhf", "armv7", "aarch64"],
-  "url": "https://github.com/afusco90/hassio-addons/tree/master/zwave",
+  "url": "https://github.com/afusco90/hassio-addons/zwave",
   "ingress": true,
   "ingress_entry": "vnc_lite.html",
   "panel_icon": "mdi:z-wave",
